@@ -14,7 +14,6 @@ A futuristic engineering portfolio website showcasing my work in:
 
 - HTML
 - CSS
-- JavaScript
 
 ---
 
